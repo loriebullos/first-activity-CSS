@@ -1,0 +1,25 @@
+p.bigger {
+    font-size: 30px;
+    font-weight: bolder;
+}
+p.smaller {
+    font-size: 20px;
+    font-weight: bolder;
+}
+button.confirm {
+    background-color: green;
+    color: white;
+    font-size: 25px;
+}
+button.cancel {
+    font-size: 25px;
+}
+div.parent {
+    font-weight: 10px;
+    font-size: 30px;
+}
+div.grandchild {
+    font-size: 20px;
+    font-weight: bolder;
+}
+     

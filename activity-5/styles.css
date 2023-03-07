@@ -1,0 +1,19 @@
+p.number1 {
+    background-color: palevioletred;
+}
+p.number2 {
+ color: blue;   
+ font-size: 30px;
+}
+p.number3 {
+    background-color: palevioletred;
+    font-size: 24px;
+}
+p.number4 {
+    background-color: aqua;
+    font-size: 24px;
+    font-weight: bolder;
+}
+p.number5 {
+    background-color: palevioletred;
+}

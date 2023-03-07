@@ -1,0 +1,17 @@
+img.image1{
+    height: auto;
+    width: 300px; 
+    text-align: left ;
+}
+img.image2 {
+    height: 400px;
+    width: 300px;
+}
+img.image3 {
+    height: auto;
+    width: auto;
+}
+img.image4 {
+    height: 400px;
+    width: 400px;
+}

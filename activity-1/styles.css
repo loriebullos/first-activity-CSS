@@ -1,0 +1,11 @@
+h1 {
+    color: white;
+    background-color: red;
+}
+p {
+    color: white;
+    background-color: green;
+}
+.inline-method {
+    background-color: yellow;
+}
